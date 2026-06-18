@@ -1,0 +1,290 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 71;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		AA0000000000000000000001 /* RadioPHApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0000000000000000000001 /* RadioPHApp.swift */; };
+		AA0000000000000000000002 /* AppModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0000000000000000000002 /* AppModel.swift */; };
+		AA0000000000000000000003 /* Models/RadioStation.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0000000000000000000003 /* Models/RadioStation.swift */; };
+		AA0000000000000000000004 /* Services/StationDirectory.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0000000000000000000004 /* Services/StationDirectory.swift */; };
+		AA0000000000000000000005 /* Services/RadioPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0000000000000000000005 /* Services/RadioPlayer.swift */; };
+		AA0000000000000000000006 /* Views/AppShellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0000000000000000000006 /* Views/AppShellView.swift */; };
+		AA0000000000000000000007 /* Views/TunerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0000000000000000000007 /* Views/TunerView.swift */; };
+		AA0000000000000000000008 /* Views/SharedViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0000000000000000000008 /* Views/SharedViews.swift */; };
+		AA0000000000000000000009 /* Views/HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0000000000000000000009 /* Views/HomeView.swift */; };
+		AA000000000000000000000A /* Views/PresetsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB000000000000000000000A /* Views/PresetsView.swift */; };
+		AA000000000000000000000B /* Views/SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB000000000000000000000B /* Views/SettingsView.swift */; };
+		AA000000000000000000000C /* Views/SleepTimerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB000000000000000000000C /* Views/SleepTimerView.swift */; };
+		AA000000000000000000000D /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB000000000000000000000D /* Theme.swift */; };
+		AA000000000000000000000E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB000000000000000000000E /* Assets.xcassets */; };
+		AA0000000000000000000011 /* Services/StreamResolver.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0000000000000000000011 /* Services/StreamResolver.swift */; };
+		AA0000000000000000000012 /* stations.json in Resources */ = {isa = PBXBuildFile; fileRef = BB0000000000000000000012 /* stations.json */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		BB0000000000000000000001 /* RadioPHApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RadioPHApp.swift; sourceTree = "<group>"; };
+		BB0000000000000000000002 /* AppModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppModel.swift; sourceTree = "<group>"; };
+		BB0000000000000000000003 /* Models/RadioStation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models/RadioStation.swift; sourceTree = "<group>"; };
+		BB0000000000000000000004 /* Services/StationDirectory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Services/StationDirectory.swift; sourceTree = "<group>"; };
+		BB0000000000000000000005 /* Services/RadioPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Services/RadioPlayer.swift; sourceTree = "<group>"; };
+		BB0000000000000000000006 /* Views/AppShellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Views/AppShellView.swift; sourceTree = "<group>"; };
+		BB0000000000000000000007 /* Views/TunerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Views/TunerView.swift; sourceTree = "<group>"; };
+		BB0000000000000000000008 /* Views/SharedViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Views/SharedViews.swift; sourceTree = "<group>"; };
+		BB0000000000000000000009 /* Views/HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Views/HomeView.swift; sourceTree = "<group>"; };
+		BB000000000000000000000A /* Views/PresetsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Views/PresetsView.swift; sourceTree = "<group>"; };
+		BB000000000000000000000B /* Views/SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Views/SettingsView.swift; sourceTree = "<group>"; };
+		BB000000000000000000000C /* Views/SleepTimerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Views/SleepTimerView.swift; sourceTree = "<group>"; };
+		BB000000000000000000000D /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
+		BB000000000000000000000E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		BB000000000000000000000F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BB0000000000000000000010 /* RadioPH.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RadioPH.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BB0000000000000000000011 /* Services/StreamResolver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Services/StreamResolver.swift; sourceTree = "<group>"; };
+		BB0000000000000000000012 /* stations.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = stations.json; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		CC0000000000000000000001 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		DD0000000000000000000001 = {
+			isa = PBXGroup;
+			children = (
+				DD0000000000000000000002 /* RadioPH */,
+				BB0000000000000000000012 /* stations.json */,
+				DD0000000000000000000003 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		DD0000000000000000000002 /* RadioPH */ = {
+			isa = PBXGroup;
+			children = (
+				BB0000000000000000000001 /* RadioPHApp.swift */,
+				BB0000000000000000000002 /* AppModel.swift */,
+				BB0000000000000000000003 /* Models/RadioStation.swift */,
+				BB0000000000000000000004 /* Services/StationDirectory.swift */,
+				BB0000000000000000000005 /* Services/RadioPlayer.swift */,
+				BB0000000000000000000011 /* Services/StreamResolver.swift */,
+				BB0000000000000000000006 /* Views/AppShellView.swift */,
+				BB0000000000000000000007 /* Views/TunerView.swift */,
+				BB0000000000000000000008 /* Views/SharedViews.swift */,
+				BB0000000000000000000009 /* Views/HomeView.swift */,
+				BB000000000000000000000A /* Views/PresetsView.swift */,
+				BB000000000000000000000B /* Views/SettingsView.swift */,
+				BB000000000000000000000C /* Views/SleepTimerView.swift */,
+				BB000000000000000000000D /* Theme.swift */,
+				BB000000000000000000000E /* Assets.xcassets */,
+				BB000000000000000000000F /* Info.plist */,
+			);
+			path = RadioPH;
+			sourceTree = "<group>";
+		};
+		DD0000000000000000000003 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				BB0000000000000000000010 /* RadioPH.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		EE0000000000000000000001 /* RadioPH */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FF0000000000000000000002 /* Build configuration list for PBXNativeTarget "RadioPH" */;
+			buildPhases = (
+				CC0000000000000000000002 /* Sources */,
+				CC0000000000000000000001 /* Frameworks */,
+				CC0000000000000000000003 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = RadioPH;
+			productName = RadioPH;
+			productReference = BB0000000000000000000010 /* RadioPH.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		EE0000000000000000000002 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 2660;
+				LastUpgradeCheck = 2660;
+				TargetAttributes = {
+					EE0000000000000000000001 = {
+						CreatedOnToolsVersion = 26.6;
+					};
+				};
+			};
+			buildConfigurationList = FF0000000000000000000001 /* Build configuration list for PBXProject "RadioPH" */;
+			compatibilityVersion = "Xcode 16.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = DD0000000000000000000001;
+			productRefGroup = DD0000000000000000000003 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				EE0000000000000000000001 /* RadioPH */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CC0000000000000000000003 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AA000000000000000000000E /* Assets.xcassets in Resources */,
+				AA0000000000000000000012 /* stations.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		CC0000000000000000000002 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AA0000000000000000000001 /* RadioPHApp.swift in Sources */,
+				AA0000000000000000000002 /* AppModel.swift in Sources */,
+				AA0000000000000000000003 /* Models/RadioStation.swift in Sources */,
+				AA0000000000000000000004 /* Services/StationDirectory.swift in Sources */,
+				AA0000000000000000000005 /* Services/RadioPlayer.swift in Sources */,
+				AA0000000000000000000011 /* Services/StreamResolver.swift in Sources */,
+				AA0000000000000000000006 /* Views/AppShellView.swift in Sources */,
+				AA0000000000000000000007 /* Views/TunerView.swift in Sources */,
+				AA0000000000000000000008 /* Views/SharedViews.swift in Sources */,
+				AA0000000000000000000009 /* Views/HomeView.swift in Sources */,
+				AA000000000000000000000A /* Views/PresetsView.swift in Sources */,
+				AA000000000000000000000B /* Views/SettingsView.swift in Sources */,
+				AA000000000000000000000C /* Views/SleepTimerView.swift in Sources */,
+				AA000000000000000000000D /* Theme.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		110000000000000000000001 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		110000000000000000000002 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		110000000000000000000003 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 6YZ7KNMDH2;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = RadioPH/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.radioph.team6yz7knmdh2;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		110000000000000000000004 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 6YZ7KNMDH2;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = RadioPH/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.radioph.team6yz7knmdh2;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FF0000000000000000000001 /* Build configuration list for PBXProject "RadioPH" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				110000000000000000000001 /* Debug */,
+				110000000000000000000002 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FF0000000000000000000002 /* Build configuration list for PBXNativeTarget "RadioPH" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				110000000000000000000003 /* Debug */,
+				110000000000000000000004 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = EE0000000000000000000002 /* Project object */;
+}

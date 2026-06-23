@@ -1,0 +1,502 @@
+[
+  {
+    "url": "https://onlineradio.ph/101-tee-radio.html",
+    "title": "Tee Radio",
+    "stream_url": "https://stream.zeno.fm/7neg6f1hbm0uv"
+  },
+  {
+    "url": "https://onlineradio.ph/109-energy.html",
+    "title": "106.7 Energy FM",
+    "stream_url": "http://ph-icecast.eradioportal.com:8000/energyfm_manila"
+  },
+  {
+    "url": "https://onlineradio.ph/11-love.html",
+    "title": "95.1 Love Radio Baguio",
+    "stream_url": "https://loveradiobaguio.radioca.st/;"
+  },
+  {
+    "url": "https://onlineradio.ph/115-dzas.html",
+    "title": "702 DZAS",
+    "stream_url": "http://sg-icecast.eradioportal.com:8000/febc_dzas"
+  },
+  {
+    "url": "https://onlineradio.ph/118-barangay-ls.html",
+    "title": "Barangay LS 97.1",
+    "stream_url": "https://stream.zeno.fm/dphe9050afhvv"
+  },
+  {
+    "url": "https://onlineradio.ph/12-love.html",
+    "title": "94.5 Love Radio Santiago",
+    "stream_url": "https://lovesantiago.radioca.st/;"
+  },
+  {
+    "url": "https://onlineradio.ph/123-dyrd-am-worldwide.html",
+    "title": "DYRD-AM Worldwide",
+    "stream_url": "https://stream.zeno.fm/ap44gpbrc0hvv"
+  },
+  {
+    "url": "https://onlineradio.ph/126-96-3-wrock.html",
+    "title": "96.3 WRocK",
+    "stream_url": "https://wrockceb-iradioph.radioca.st/;"
+  },
+  {
+    "url": "https://onlineradio.ph/13-love.html",
+    "title": "98.3 Love Radio Dagupan",
+    "stream_url": "https://loveradiodagupan.radioca.st/;"
+  },
+  {
+    "url": "https://onlineradio.ph/135-radyo-natin.html",
+    "title": "Radyo Natin Virac",
+    "stream_url": "https://tx.radyonatinfm.com:8000/virac"
+  },
+  {
+    "url": "https://onlineradio.ph/14-love.html",
+    "title": "90.7 Love Radio Laoag",
+    "stream_url": "https://loveradiolaoag.radioca.st/;"
+  },
+  {
+    "url": "https://onlineradio.ph/148-heart-fm.html",
+    "title": "90.5 Heart FM",
+    "stream_url": "https://chloreign.com/listen/sanibpwersa/radio.mp3"
+  },
+  {
+    "url": "https://onlineradio.ph/15-love.html",
+    "title": "100.7 Love Radio Lucena",
+    "stream_url": "https://loveradiolucena.radioca.st/;"
+  },
+  {
+    "url": "https://onlineradio.ph/155-boracay-beach-radio.html",
+    "title": "97.3 Boracay Beach Radio",
+    "stream_url": "https://s9.viastreaming.net:8390/stream/"
+  },
+  {
+    "url": "https://onlineradio.ph/156-wild-fm.html",
+    "title": "105.9 Wild FM",
+    "stream_url": "http://us2.amfmph.com:9253/stream"
+  },
+  {
+    "url": "https://onlineradio.ph/158-dyri.html",
+    "title": "DYRI RMN Iloilo",
+    "stream_url": "https://us1.amfmph.com/ssl/rmniloilo?mp=%2Fstream"
+  },
+  {
+    "url": "https://onlineradio.ph/16-love.html",
+    "title": "99.1 Love Radio Naga",
+    "stream_url": "https://loveradionaga.radioca.st/;"
+  },
+  {
+    "url": "https://onlineradio.ph/162-spirit-fm.html",
+    "title": "99.1 Spirit FM",
+    "stream_url": "https://stream.zeno.fm/zb2c835zahruv"
+  },
+  {
+    "url": "https://onlineradio.ph/165-ifm.html",
+    "title": "95.1 iFM Iloilo",
+    "stream_url": "https://de3.amfmph.com/ssl/ifmiloil?mp=/stream"
+  },
+  {
+    "url": "https://onlineradio.ph/166-pinoy-rap-radio.html",
+    "title": "Pinoy Rap Radio",
+    "stream_url": "https://stream.zeno.fm/0cdp55nqam0uv"
+  },
+  {
+    "url": "https://onlineradio.ph/18-love.html",
+    "title": "95.3 Love Radio Daet",
+    "stream_url": "https://loveradiodaet.radioca.st/;"
+  },
+  {
+    "url": "https://onlineradio.ph/19-love.html",
+    "title": "91.9 Love Radio Bacolod",
+    "stream_url": "https://loveradiobacolod.radioca.st/;"
+  },
+  {
+    "url": "https://onlineradio.ph/190-monsterous-radio.html",
+    "title": "Monsterous Radio",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM08AAC033_SC"
+  },
+  {
+    "url": "https://onlineradio.ph/194-magic.html",
+    "title": "Magic 89.9",
+    "stream_url": "https://stream.zeno.fm/sh37pvfd938uv"
+  },
+  {
+    "url": "https://onlineradio.ph/20-love.html",
+    "title": "97.9 Love Radio Cebu",
+    "stream_url": "https://loveradiocebu.radioca.st/;"
+  },
+  {
+    "url": "https://onlineradio.ph/21-love.html",
+    "title": "97.5 Love Radio Iloilo",
+    "stream_url": "https://loveradioiloilo.radioca.st/;"
+  },
+  {
+    "url": "https://onlineradio.ph/23-love.html",
+    "title": "91.1 Love Radio Tacloban",
+    "stream_url": "https://lovetacloban.radioca.st/;"
+  },
+  {
+    "url": "https://onlineradio.ph/230-bombo-radyo.html",
+    "title": "Bombo Radyo Iloilo",
+    "stream_url": "https://stream.zenolive.com/gzudz59nz9duv"
+  },
+  {
+    "url": "https://onlineradio.ph/235-brigada-news-fm-naga.html",
+    "title": "Brigada News FM NAGA",
+    "stream_url": "https://nagastream.brigadanews.ph/"
+  },
+  {
+    "url": "https://onlineradio.ph/238-brigada-news-fm-bacolod.html",
+    "title": "103.1 Brigada News FM",
+    "stream_url": "https://bacolodstream.brigadanews.ph/"
+  },
+  {
+    "url": "https://onlineradio.ph/251-magic-davao.html",
+    "title": "89.1 XFM (XFM Davao)",
+    "stream_url": "http://us1.amfmph.com:8724/live"
+  },
+  {
+    "url": "https://onlineradio.ph/252-magic-cebu.html",
+    "title": "Magic 92.3 Cebu",
+    "stream_url": "http://server-67.stream-server.nl:8758/stream"
+  },
+  {
+    "url": "https://onlineradio.ph/255-mellow.html",
+    "title": "Mellow 94.7 BFM",
+    "stream_url": "https://streamer.radio.co/sec36cd5f1/listen"
+  },
+  {
+    "url": "https://onlineradio.ph/259-allradio.html",
+    "title": "AllRadio 103.5",
+    "stream_url": "http://209.126.124.126:8872/stream"
+  },
+  {
+    "url": "https://onlineradio.ph/26-bombo-radyo.html",
+    "title": "Bombo Radyo Bacolod",
+    "stream_url": "https://stream.zenolive.com/wg8yn4cnz9duv"
+  },
+  {
+    "url": "https://onlineradio.ph/30-love.html",
+    "title": "90.7 Love Radio Davao",
+    "stream_url": "https://loveradiodavao.radioca.st/;"
+  },
+  {
+    "url": "https://onlineradio.ph/306-bombo-radyo.html",
+    "title": "Bombo Radyo Cauayan",
+    "stream_url": "https://stream.zenolive.com/uazfxxxmz9duv"
+  },
+  {
+    "url": "https://onlineradio.ph/308-retro-davao-95-5.html",
+    "title": "Retro Davao 95.5",
+    "stream_url": "http://de3.amfmph.com:8135/stream"
+  },
+  {
+    "url": "https://onlineradio.ph/311-kiss-fm-kilig.html",
+    "title": "Kiss FM Kilig",
+    "stream_url": "https://sc.kissfmkilig.net/proxy/kissfmkilig/stream"
+  },
+  {
+    "url": "https://onlineradio.ph/319-memories-fm.html",
+    "title": "89.9 MemoRieS FM",
+    "stream_url": "https://server10.reliastream.com/proxy/broadtek?mp=/stream"
+  },
+  {
+    "url": "https://onlineradio.ph/323-bombo-radyo.html",
+    "title": "Bombo Radyo Naga",
+    "stream_url": "https://stream.zeno.fm/a0zn713mz9duv"
+  },
+  {
+    "url": "https://onlineradio.ph/33-love.html",
+    "title": "Love Koronadal",
+    "stream_url": "https://lovekoronadal.radioca.st/;"
+  },
+  {
+    "url": "https://onlineradio.ph/330-dxki-strong-radio-90-3.html",
+    "title": "90.3 Strong Radio",
+    "stream_url": "https://stream.zeno.fm/femnnphrtcltv"
+  },
+  {
+    "url": "https://onlineradio.ph/34-love.html",
+    "title": "97.9 Love Radio Zamboanga",
+    "stream_url": "https://lovezamboanga.radioca.st/;"
+  },
+  {
+    "url": "https://onlineradio.ph/380-radyo-natin-brooke-s-point.html",
+    "title": "Radyo Natin Brooke's Point",
+    "stream_url": "https://xcite.radyonatinfm.com:8010/brookespoint"
+  },
+  {
+    "url": "https://onlineradio.ph/39-big-sound.html",
+    "title": "95.9 Big Sound FM",
+    "stream_url": "http://162.220.162.10:8011/stream"
+  },
+  {
+    "url": "https://onlineradio.ph/391-spirit-fm-lucena.html",
+    "title": "Spirit FM 103.9",
+    "stream_url": "https://stream.zeno.fm/fp689r8sty8uv"
+  },
+  {
+    "url": "https://onlineradio.ph/40-rjfm-100-3.html",
+    "title": "100.3 RJFM",
+    "stream_url": "https://stream.zeno.fm/as29d8g0g4duv"
+  },
+  {
+    "url": "https://onlineradio.ph/418-dwww-774.html",
+    "title": "DWWW 774",
+    "stream_url": "https://stream.zeno.fm/8v95b64qbxquv"
+  },
+  {
+    "url": "https://onlineradio.ph/423-filipino-music-central.html",
+    "title": "Filipino Music Central",
+    "stream_url": "https://stream.zeno.fm/yqkru9yv3yzuv"
+  },
+  {
+    "url": "https://onlineradio.ph/425-veritas-846.html",
+    "title": "Veritas 846",
+    "stream_url": "https://in-icecast.eradioportal.com:8443/radyo-veritas-846"
+  },
+  {
+    "url": "https://onlineradio.ph/45-bombo-radyo.html",
+    "title": "Bombo Radyo Cebu",
+    "stream_url": "https://stream.zenolive.com/cc4d8bbnz9duv"
+  },
+  {
+    "url": "https://onlineradio.ph/487-radyo-natin-nationwide.html",
+    "title": "Radyo Natin Nationwide",
+    "stream_url": "https://visayas.radyonatinfm.com:8000/stream"
+  },
+  {
+    "url": "https://onlineradio.ph/5-easy-rock.html",
+    "title": "96.3 Easy Rock Manila",
+    "stream_url": "https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3"
+  },
+  {
+    "url": "https://onlineradio.ph/553-fresh-fm.html",
+    "title": "FReSH FM",
+    "stream_url": "https://s36.radiolize.com/radio/8170/radio.mp3"
+  },
+  {
+    "url": "https://onlineradio.ph/55358-1037-pinoy-love-radio.html",
+    "title": "103.7 Pinoy Love Radio",
+    "stream_url": "http://s2.voscast.com:12454/stream/1/"
+  },
+  {
+    "url": "https://onlineradio.ph/55363-kaibigan-radio.html",
+    "title": "OPM Kaibigan (Kaibigan Radio)",
+    "stream_url": "https://listen.streamaudio.co/proxy/kaibiganradio/kaibigan"
+  },
+  {
+    "url": "https://onlineradio.ph/572-bespren-radio.html",
+    "title": "Bespren Radio",
+    "stream_url": "https://streamnavs.net:8089/live"
+  },
+  {
+    "url": "https://onlineradio.ph/58-monster-radio-bt.html",
+    "title": "Monster BT 105.9",
+    "stream_url": "https://in-icecast.eradioportal.com:8443/rxcebu"
+  },
+  {
+    "url": "https://onlineradio.ph/59-y101.html",
+    "title": "Y101",
+    "stream_url": "https://us1.amfmph.com:8849/stream"
+  },
+  {
+    "url": "https://onlineradio.ph/6-dzrh-news.html",
+    "title": "DZRH News Radyo",
+    "stream_url": "https://azura.dzrh.com.ph/listen/dzrh_manila/radio.mp3"
+  },
+  {
+    "url": "https://onlineradio.ph/63-rmn-cebu.html",
+    "title": "DYHP RMN Cebu",
+    "stream_url": "https://de3.amfmph.com/ssl/rmncebu?mp=/stream"
+  },
+  {
+    "url": "https://onlineradio.ph/64104-dzmm-radyo-patrol-630-dzmm.html",
+    "title": "DZMM Radyo Patrol 630",
+    "stream_url": "https://us1.amfmph.com:8852/live"
+  },
+  {
+    "url": "https://onlineradio.ph/64115-aksyon-radyo-bacolod-dyez.html",
+    "title": "Aksyon Radyo Bacolod - DYEZ",
+    "stream_url": "https://arbacolod.radioca.st/stream?type=http&nocache=4"
+  },
+  {
+    "url": "https://onlineradio.ph/64116-mor-cebu-971-dyls.html",
+    "title": "MOR Cebu 97.1 - DYLS",
+    "stream_url": "http://magic.radioca.st:6004/stream/;"
+  },
+  {
+    "url": "https://onlineradio.ph/64118-fm-radio-cebu-dywf.html",
+    "title": "FM Radio Cebu - DYWF",
+    "stream_url": "https://us1.amfmph.com/ssl/fmrcebu?mp=/stream"
+  },
+  {
+    "url": "https://onlineradio.ph/64135-gv-999.html",
+    "title": "GV 99.9",
+    "stream_url": "https://gvstream.tail160f79.ts.net/stream"
+  },
+  {
+    "url": "https://onlineradio.ph/64139-guimaras-fm.html",
+    "title": "102.6 Guimaras FM",
+    "stream_url": "https://radio5.reans.net/radio/8210/radio.mp3"
+  },
+  {
+    "url": "https://onlineradio.ph/64154-mcjavz-radio-fm.html",
+    "title": "MCJAV'Z Radio FM",
+    "stream_url": "https://usa2.bntworxtv.com/listen/mcjavzfm/radio.mp3"
+  },
+  {
+    "url": "https://onlineradio.ph/64156-mor-entertainment.html",
+    "title": "MOR Entertainment",
+    "stream_url": "https://stream.zeno.fm/0ha8ftewqp8uv"
+  },
+  {
+    "url": "https://onlineradio.ph/64170-opm-radio.html",
+    "title": "OPM Radio",
+    "stream_url": "https://listen.streamaudio.co/proxy/kaibiganradio/opm"
+  },
+  {
+    "url": "https://onlineradio.ph/64171-pinoy-home-radio.html",
+    "title": "Pinoy Home Radio",
+    "stream_url": "http://philae.shoutca.st:8188/stream/"
+  },
+  {
+    "url": "https://onlineradio.ph/64178-pinoyofw-fm.html",
+    "title": "PinoyOFW Fm",
+    "stream_url": "https://stream.radiojar.com/4dy80ayp5gruv"
+  },
+  {
+    "url": "https://onlineradio.ph/64179-899-pinoy-hot-mix-fm.html",
+    "title": "89.9 Pinoy Hot Mix FM",
+    "stream_url": "http://cp12.serverse.com:7832/stream"
+  },
+  {
+    "url": "https://onlineradio.ph/64200-rage-media-rage-music-phillipines.html",
+    "title": "Rage Music PH",
+    "stream_url": "https://stream.zeno.fm/q1n2wyfs7x8uv"
+  },
+  {
+    "url": "https://onlineradio.ph/64216-tingog-sa-sugbo.html",
+    "title": "Tingog sa Sugbo",
+    "stream_url": "https://sugbo-iradioph.radioca.st/;"
+  },
+  {
+    "url": "https://onlineradio.ph/66-brigada-news-fm-olongapo.html",
+    "title": "93.5 Brigada News FM Olongapo",
+    "stream_url": "https://olongapostream.brigadanews.ph/"
+  },
+  {
+    "url": "https://onlineradio.ph/68-brigada-news-fm.html",
+    "title": "102.9 Brigada News FM",
+    "stream_url": "https://daetstream.brigadanews.ph/"
+  },
+  {
+    "url": "https://onlineradio.ph/7-monster-radio-rx.html",
+    "title": "Monster RX93.1",
+    "stream_url": "https://in-icecast.eradioportal.com:8443/monsterrrx"
+  },
+  {
+    "url": "https://onlineradio.ph/73-brigada-news-fm-toledo.html",
+    "title": "Brigada News FM Toledo",
+    "stream_url": "https://toledostream.brigadanews.ph/"
+  },
+  {
+    "url": "https://onlineradio.ph/75-brigada-news-fm-general-santos.html",
+    "title": "89.5 Brigada News FM",
+    "stream_url": "https://gensanstream.brigadanews.ph/"
+  },
+  {
+    "url": "https://onlineradio.ph/76-brigada-news-fm-davao.html",
+    "title": "93.1 Brigada News FM Davao",
+    "stream_url": "https://davaostream.brigadanews.ph/"
+  },
+  {
+    "url": "https://onlineradio.ph/792-energy-fm.html",
+    "title": "Energy FM Naga",
+    "stream_url": "https://stream.zeno.fm/klewk28qlqquv"
+  },
+  {
+    "url": "https://onlineradio.ph/799-yes.html",
+    "title": "104.7 Yes FM Cagayan De Oro",
+    "stream_url": "https://yesfmcdo.radioca.st/;"
+  },
+  {
+    "url": "https://onlineradio.ph/8-love.html",
+    "title": "90.7 Love Radio Manila",
+    "stream_url": "https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3"
+  },
+  {
+    "url": "https://onlineradio.ph/800-yes.html",
+    "title": "91.5 Yes FM Cebu",
+    "stream_url": "https://yesfmcebu.radioca.st/;"
+  },
+  {
+    "url": "https://onlineradio.ph/802-yes.html",
+    "title": "Yes FM Dagupan",
+    "stream_url": "https://yesfmdagupan.radioca.st/;"
+  },
+  {
+    "url": "https://onlineradio.ph/803-yes.html",
+    "title": "106.3 Yes FM Dumaguete",
+    "stream_url": "https://yesfmdumaguete.radioca.st/;"
+  },
+  {
+    "url": "https://onlineradio.ph/807-love.html",
+    "title": "95.1 Love Radio Butuan",
+    "stream_url": "https://loveradiobutuan.radioca.st/;"
+  },
+  {
+    "url": "https://onlineradio.ph/810-love.html",
+    "title": "105.7 Love Radio Roxas",
+    "stream_url": "https://loveradioroxas.radioca.st/;"
+  },
+  {
+    "url": "https://onlineradio.ph/812-win-radio.html",
+    "title": "107.5 Win Radio Cebu",
+    "stream_url": "https://stream.zeno.fm/1noxhem5qpkuv"
+  },
+  {
+    "url": "https://onlineradio.ph/83-wild-92-3-wt.html",
+    "title": "92.3 Wild FM",
+    "stream_url": "https://us2.amfmph.com/ssl/wilddavao?mp=/stream"
+  },
+  {
+    "url": "https://onlineradio.ph/85-aksyon.html",
+    "title": "Aksyon Radyo Iloilo",
+    "stream_url": "https://ariloilo.radioca.st/stream"
+  },
+  {
+    "url": "https://onlineradio.ph/88700-budots-fm-989.html",
+    "title": "Budots FM 98.9",
+    "stream_url": "https://stream.zeno.fm/2uhuu5hvzqzuv"
+  },
+  {
+    "url": "https://onlineradio.ph/888-dzfe.html",
+    "title": "98.7 DZFE",
+    "stream_url": "http://ph-icecast-win.eradioportal.com:8000/febc_dzfe"
+  },
+  {
+    "url": "https://onlineradio.ph/893-star-fm.html",
+    "title": "102.7 Star FM Manila",
+    "stream_url": "https://stream.zeno.fm/536cwdq78heuv"
+  },
+  {
+    "url": "https://onlineradio.ph/899-brigada-news-fm-cebu.html",
+    "title": "90.7 Brigada News FM Cebu",
+    "stream_url": "http://18.141.67.248:8026/stream/1/"
+  },
+  {
+    "url": "https://onlineradio.ph/903-brigada-news-fm-cotabato.html",
+    "title": "89.3 Brigada News FM Cotabato",
+    "stream_url": "https://cotabatostream.brigadanews.ph/"
+  },
+  {
+    "url": "https://onlineradio.ph/90460-vibe-radio.html",
+    "title": "VIBE Radio",
+    "stream_url": "https://stream.zeno.fm/zf0ac4raqy8uv"
+  },
+  {
+    "url": "https://onlineradio.ph/908-1031-wild-fm.html",
+    "title": "103.1 Wild FM",
+    "stream_url": "https://us2.amfmph.com/ssl/wildiligan?mp=/stream"
+  }
+]

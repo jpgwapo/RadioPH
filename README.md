@@ -2,6 +2,10 @@
 
 RadioPH is a SwiftUI internet-radio prototype based on the selected **Heritage Dial** concept.
 
+## Screenshot
+
+<img src="design-qa-assets/speaker-implementation-final.png" alt="RadioPH tuner screen showing Easy Rock Manila, a vintage radio dial, playback controls, and station presets" width="360">
+
 ## Included
 
 - Retro walnut-and-brass tuner with analog station scale and tactile controls
